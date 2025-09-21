@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class getSecondLargestNumberFromList {
+public class GetSecondLargestNumberFromList {
     public static void main(String[] args) {
         List<Integer> input = Arrays.asList(11,22,33,44,55);
 

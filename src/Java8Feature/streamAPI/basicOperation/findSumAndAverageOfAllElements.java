@@ -3,7 +3,7 @@ package Java8Feature.streamAPI.basicOperation;
 import java.util.Arrays;
 import java.util.List;
 
-public class findSumAndAverageOfAllElements {
+public class FindSumAndAverageOfAllElements {
     public static void main(String[] args) {
 
         List<Integer> input = Arrays.asList(1,2,3,4,5,6,7,8,9,10);

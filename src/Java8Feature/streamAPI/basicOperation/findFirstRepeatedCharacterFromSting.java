@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class findFirstRepeatedCharacterFromSting {
+public class FindFirstRepeatedCharacterFromSting {
 
     public static void main(String[] args) {
 

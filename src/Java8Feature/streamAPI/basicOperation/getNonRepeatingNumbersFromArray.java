@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class getNonRepeatingNumbersFromArray {
+public class GetNonRepeatingNumbersFromArray {
     public static void main(String[] args) {
 
         List<Integer> input = Arrays.asList(1,2,3,4,5,1,2,3,6);

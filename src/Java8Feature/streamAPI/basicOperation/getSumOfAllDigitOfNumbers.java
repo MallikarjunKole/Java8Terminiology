@@ -3,7 +3,7 @@ package Java8Feature.streamAPI.basicOperation;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class getSumOfAllDigitOfNumbers {
+public class GetSumOfAllDigitOfNumbers {
     public static void main(String[] args) {
         int input = 95123;
 

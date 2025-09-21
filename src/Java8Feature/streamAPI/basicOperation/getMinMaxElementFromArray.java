@@ -3,9 +3,8 @@ package Java8Feature.streamAPI.basicOperation;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
-public class getMinMaxElementFromArray {
+public class GetMinMaxElementFromArray {
     public static void main(String[] args) {
 
         List<Integer> input = Arrays.asList(1,2,3,4,5);

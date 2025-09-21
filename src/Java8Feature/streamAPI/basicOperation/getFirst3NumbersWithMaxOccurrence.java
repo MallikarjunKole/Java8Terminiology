@@ -7,7 +7,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class getFirst3NumbersWithMaxOccurrence {
+public class GetFirst3NumbersWithMaxOccurrence {
 
     public static void main(String[] args) {
 
