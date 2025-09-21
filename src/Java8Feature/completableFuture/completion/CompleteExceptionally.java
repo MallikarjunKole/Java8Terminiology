@@ -22,6 +22,6 @@ public class CompleteExceptionally {
                     System.out.println("Exception Occurred : " + ex.getMessage());
                     return null;
                 });
-        completableFuture.join();
+       // completableFuture.join();
     }
 }
